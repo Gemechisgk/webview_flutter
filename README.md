@@ -31,8 +31,5 @@ ii) Loading another url(youtube) when clicks on floating-Action-Button.<br>
 iii)Another functinality i.e. Javascript inject: hiding header and footer of website when click on floating-action-button:<br>
 <img src='images/ss5.jpeg' width=250 height=600><br>
 
-iv) Loading facebook url and filling username and password automatically when clicks on floating-action-button:<br>
-<img src='images/ss6.jpeg' width=300 height=600>
-<img src='images/ss7.jpeg' width=300 height=600>
-# webview_flutter
+
 # webview_flutter
